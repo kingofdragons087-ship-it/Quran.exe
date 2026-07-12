@@ -19,6 +19,10 @@
     "win": {
       "target": "nsis",
       "icon": "icon.png"
+    },
+    "publish": {
+      "provider": "generic",
+      "url": "https://example.com"
     }
   }
 }
