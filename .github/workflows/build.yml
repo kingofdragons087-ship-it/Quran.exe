@@ -1,4 +1,4 @@
-herename: Build EXE
+name: Build EXE
 
 on:
   push:
